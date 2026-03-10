@@ -39,16 +39,12 @@ npm start
 ## Author
 Divya
 ## Project Screenshots
+<p align="center">
+  <img src="screenshots/login.png" width="45%" />
+  <img src="screenshots/dashboard.png" width="45%" />
+</p>
 
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-
-### Expenses Page
-![Expenses](screenshots/expenses.png)
-
-### Monthly Expense Chart
-![Monthly Chart](screenshots/chart.png)
+<p align="center">
+  <img src="screenshots/expenses.png" width="45%" />
+  <img src="screenshots/chart.png" width="45%" />
+</p>
