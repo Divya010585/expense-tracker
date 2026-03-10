@@ -49,3 +49,6 @@ Divya
 
 ### Expenses Page
 ![Expenses](screenshots/expenses.png)
+
+### Monthly Expense Chart
+![Monthly Chart](screenshots/chart.png)
