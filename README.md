@@ -38,3 +38,10 @@ npm start
 
 ## Author
 Divya
+## Project Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
