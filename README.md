@@ -45,3 +45,7 @@ Divya
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+
+### Expenses Page
+![Expenses](screenshots/expenses.png)
