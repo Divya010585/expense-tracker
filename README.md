@@ -45,3 +45,15 @@ npm start
 
 Divya  
 GitHub: https://github.com/Divya010585
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Expenses Page
+![Expenses](screenshots/expenses.png)
+
+### Monthly Expense Chart
+![Monthly Chart](screenshots/chart.png)
